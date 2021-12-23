@@ -1,0 +1,23 @@
+:root {
+  --branding-color: #6c63ff;
+  --secondary-color: #f9f7fe;
+}
+
+.hero {
+  background: var(--secondary-color);
+  text-align: center;
+  padding: 160px 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.btn-branding {
+  background: var(--branding-color);
+  border-radius: 4px;
+  color: white;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 15px 30px;
+}
