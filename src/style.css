@@ -72,3 +72,16 @@ p {
     padding: 80px 20px;
   }
 }
+
+.about-section h1 {
+  font-size: 64px;
+  line-height: 80px;
+}
+
+.about-section p {
+  font-size: 18px;
+}
+
+.about-section-content {
+  margin: 30px;
+}
