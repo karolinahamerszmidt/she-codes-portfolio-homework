@@ -90,6 +90,9 @@ logo {
   max-width: 150px;
 }
 
+nav {
+  padding: 20px 0;
+}
 nav li {
   display: inline;
   list-style: none;
